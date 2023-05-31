@@ -1,6 +1,6 @@
 # race-track-game
 
-Hello this is the internship assignment for Vyorius
+Hello this is the internship assignment for Vyorius from Mihir Desai.
 
 In this game I have created a track and some cars.
 
@@ -13,3 +13,9 @@ Through wheel colliders we can give Torque to the wheel object using motorTorque
 With wheel collider's steerAngle property we can give the steering direction to control the vehicle.
 
 For the third person camera I've used Cinemachine Virtual Camera
+
+Thank you.
+
+These are the game screen shots:
+
+![Screenshot (1)](https://github.com/Gravetor0111/race-track-game/assets/68990476/3453e823-2d64-4004-a4c5-b2d31d630ea9)
