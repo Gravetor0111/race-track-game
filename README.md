@@ -12,4 +12,4 @@ Through wheel colliders we can give Torque to the wheel object using motorTorque
 
 With wheel collider's steerAngle property we can give the steering direction to control the vehicle.
 
-For the third person camera I've used Cinemachine 
+For the third person camera I've used Cinemachine Virtual Camera
