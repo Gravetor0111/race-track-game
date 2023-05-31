@@ -1,6 +1,6 @@
 # race-track-game
 
-Hello this is the internship assignment for Vyorius from Mihir Desai.
+Hello, this is the internship assignment for Vyorius from Mihir Desai.
 
 In this game I have created a track and some cars.
 
